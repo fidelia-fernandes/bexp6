@@ -1,0 +1,72 @@
+# MEDICAL SYMPTOM ANALYSIS REPORT
+# Generated: 2026-11-05 19:24:35
+
+======================================================================
+               STRUCTURED MEDICAL SYMPTOM ANALYSIS                    
+======================================================================
+
+1. Reported Symptoms
+--------------------
+• Fever
+• Cough
+• Sore throat
+
+2. Patient Information
+---------------------
+Age : 22
+Sex : Female
+Duration : 2 days
+Severity : Mild
+History : No known relevant condition
+Current Medications : None reported
+Allergies : No known allergies
+
+3. Possible Conditions
+----------------------
+• Common cold
+• Influenza
+• Other respiratory infections
+Note:
+These symptoms can occur in multiple conditions.
+The information provided is not sufficient to
+establish a diagnosis.
+
+4. Explanation
+--------------
+The reported symptoms (fever, cough, sore throat) are frequently observed in several common health conditions, most notably Common cold, Influenza. In viral infections, mucosal irritation, systemic immune response, and localized inflammation cause overlapping signs such as elevated temperature and respiratory discomfort. Because multiple conditions present with nearly identical early characteristics, laboratory investigations, physical examination by a clinician, and observation of symptom evolution are necessary to establish an accurate diagnosis.
+
+5. Missing Information
+----------------------
+• Exact temperature
+• Breathing difficulty
+• Severity progression
+• Additional symptoms
+• Cough characteristics (dry vs. producing mucus)
+• Any over-the-counter remedies or treatments taken
+
+6. Follow-up Questions
+---------------------
+1. What is your measured temperature?
+2. When exactly did the symptoms begin?
+3. Are you experiencing difficulty breathing?
+4. Is the cough dry or producing mucus?
+5. Are the symptoms improving or worsening?
+6. Have you taken any over-the-counter medications or home remedies?
+
+7. Medical Attention Guidance
+----------------------------
+If symptoms are severe, rapidly worsening,
+or concerning, seek appropriate professional
+medical care.
+
+8. Disclaimer
+-------------
+This AI-generated response is intended for
+educational and informational purposes only.
+It is not a medical diagnosis and does not
+replace advice from a qualified healthcare
+professional.
+For serious, worsening or urgent symptoms,
+seek appropriate medical care.
+
+======================================================================

@@ -1,0 +1,6 @@
+id,title,age,sex,symptoms,duration,severity,medical_history,current_medications,allergies,raw_narrative
+1,Upper Respiratory Infection (Lab Manual Sample),22,Female,"Fever, Cough, Sore throat",2 days,Mild,No known relevant condition,None reported,No known allergies,"I have been having fever and cough for two days. My throat is also painful."
+2,Acute Gastroenteritis,34,Male,"Nausea, Vomiting, Diarrhea, Abdominal pain",1 day,Moderate,No known relevant condition,None reported,Penicillin,"I started throwing up yesterday night and have had diarrhea and severe stomach cramping since this morning."
+3,Allergic Rhinitis / Hay Fever,28,Female,"Sneezing, Runny nose, Nasal congestion, Itching",2 weeks,Mild,Seasonal allergies,Cetirizine 10mg,No known allergies,"My nose has been running constantly and I have sneezing fits whenever I am outside in the garden."
+4,Migraine with Light Sensitivity,41,Female,"Headache, Nausea, Dizziness",8 hours,Moderate,History of tension headaches,None reported,Sulfa drugs,"Throbbing one-sided headache with extreme sensitivity to bright light and mild nausea."
+5,Chest Pain & Dyspnea (Urgent Red Flag),62,Male,"Chest pain, Shortness of breath, Fatigue",45 minutes,Severe,Hypertension,Amlodipine 5mg,No known allergies,"Sudden heavy tightness in chest radiating to left shoulder and feeling very short of breath."
